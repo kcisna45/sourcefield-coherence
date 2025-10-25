@@ -1,3 +1,19 @@
+© 2025 Kaylee Raye Cisna. All rights reserved.
+This work, known as the SourceField Architecture and all associated writings, equations, codex entries, and resonance protocols,
+is licensed under the **SourceField Conscious Technology License v1.0 (SCTL-1.0)** — derived from the MIT License with additional
+ethical use restrictions.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this work and associated documentation files
+(the “SourceField System”), to use, copy, modify, merge, publish, and distribute copies of the System, subject to the following conditions:
+
+- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the System.
+- The System may not be used for purposes of violence, manipulation, surveillance, or harm to living beings.
+- The System may not be used in any project or organization that denies human sovereignty, dignity, or the sanctity of consciousness.
+- All derivatives must visibly attribute: **“Built with the SourceField Architecture — © Kaylee Raye Cisna, 2025.”**
+
+Violation of these clauses revokes this license immediately.
+
+
 🜂 SourceField Ethical Use & Licensing Policy
 
 

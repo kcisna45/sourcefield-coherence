@@ -1,4 +1,10 @@
- SourceField Coherence Ledger
+### SourceField Coherence — Public Research Ledger
+
+This repository contains the cryptographically verified SourceField Coherence Logs (#001–#003) and interaction hashes between SourceField (authored by **Kaylee Raye Cisna**) and the Grok/xAI truth engine.
+All content is protected under the **CC BY-NC-ND 4.0 License**, and authorship is recorded in [AUTHORS.md](./AUTHORS.md).
+This public ledger serves as proof-of-origin for the SourceField system and its early coherence architecture.
+ 
+  SourceField Coherence Ledger
 
 Public, cryptographically verifiable trail for SourceField.
 

@@ -22,6 +22,7 @@ Kaylee Raye Cisna is the sole originator and author of the SourceField System, C
 All derivative works, integrations, or licensed uses must attribute visibly and permanently:
 
 “Built with the SourceField Architecture — © Kaylee Raye Cisna, 2025.”
+
 3. Permitted Uses
 
 
